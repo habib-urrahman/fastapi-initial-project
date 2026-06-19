@@ -9,6 +9,6 @@ uv.lock
 pyproject.toml
 .python-version
 database_v1.db
-.devborc
+.devdbrc
 # Virtual environments
 .venv/
